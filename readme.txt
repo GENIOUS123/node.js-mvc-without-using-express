@@ -1,0 +1,2 @@
+1. this is a mvc module created on pure node.js this is a basic mvc framework to teach how actually mvc framework works specially in node.js
+we are using different nodemodules to create a mvc arcitacture for bigginers to understand how actually it works. 
